@@ -32,13 +32,3 @@ Welcome to the Paytm App, a simple application for handling transactions and mon
 
 - **JWT Authantication**
     - The Paytm App leverages Zod for input validation and JSON Web Tokens (JWT) for secure and efficient user authentication.
-
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Vikram0817/MERN-Paytm
-   cd paytm-app
-
-## todo -
-fix user name beside hello, 
